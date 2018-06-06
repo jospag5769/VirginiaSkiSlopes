@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ski Slopes</string>
+    <string name="txtSplash">Slopes in Virginia</string>
+    <string name="txtSelect">Select a Resort</string>
+    <string name="btnAdventure">Lets Ride!</string>
+    <string-array name="txtGroup">
+        <item>Bryce Resort</item>
+        <item>Massanutten</item>
+        <item>The Homestead Ski Area</item>
+        <item>Wintergreen Resort</item>
+</string-array>
+</resources>
